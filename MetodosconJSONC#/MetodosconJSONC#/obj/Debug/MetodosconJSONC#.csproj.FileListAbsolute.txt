@@ -1,0 +1,13 @@
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\bin\Debug\MetodosconJSONC#.exe.config
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\bin\Debug\MetodosconJSONC#.exe
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\bin\Debug\MetodosconJSONC#.pdb
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\obj\Debug\MetodosconJSONC#.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\obj\Debug\MetodosconJSONC_.Form1.resources
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\obj\Debug\MetodosconJSONC_.Properties.Resources.resources
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\obj\Debug\MetodosconJSONC#.csproj.GenerateResource.cache
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\obj\Debug\MetodosconJSONC#.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\obj\Debug\MetodosconJSONC#.csproj.CopyComplete
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\obj\Debug\MetodosconJSONC#.exe
+C:\Users\luisc\source\repos\MetodosconJSONC#\MetodosconJSONC#\obj\Debug\MetodosconJSONC#.pdb
